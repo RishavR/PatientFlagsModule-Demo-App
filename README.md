@@ -1,11 +1,11 @@
 # PatientFlagsModule Demo App
 
-##TODO: 
+## TODO: 
 1. Openmrs-react-components integration [IMP]
 2. Styleguide integration. [OPT]
 3. Formal project structure. [OPT]
 
-##Requisite Dependencies:
+## Requisite Dependencies:
 
 1. Core node_modules 
 2. For Adding OpenMRS React Components Dependencies:
